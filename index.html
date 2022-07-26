@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Random Pizza Generator</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+    <div class="container flexcolumn">
+        <!-- Title -->
+        <h1>Random Pizza Generator</h1>
+
+        <!-- Random Pizza Output Image -->
+        <div class="pizzaLocation">
+            <img id="crust" src="./assets/crusts/deep-dish.png" alt="Pizza Crust">
+            <img id="sauce" src="./assets/sauces/marinara.png" alt="Pizza Sauce">
+            <img id="cheese" src="./assets/cheeses/mozzarella.png" alt="Pizza Cheese">
+            <img id="meat" src="./assets/meats/bacon.png" alt="Pizza Meat">
+            <img id="topping1" src="./assets/otherToppings/pineapple.png" alt="Pizza Topping 1">
+            <img id="topping2" src="./assets/otherToppings/olive.png" alt="Pizza Topping 2">
+            <img id="topping3" src="./assets/otherToppings/mushroom.png" alt="Pizza Topping 3">
+        </div>
+
+        <!-- Tablecloth -->
+        <img src="./assets/tablecloth.jpeg" alt="tablecloth">
+
+        <!-- Content -->
+        <button onclick="generate(); switchImage()">Make me a Pizza</button>
+        <div class="content flexcolumn">
+            <h2>Menu</h2>
+            <p id="pizzaResult"></p>
+        </div>
+
+    </div>
+    <script src="./script.js"></script>
+</body>
+</html>

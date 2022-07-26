@@ -1,0 +1,124 @@
+/* Imports */
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Permanent+Marker&family=Roboto:wght@400;700&family=Unica+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Dancing+Script&family=Permanent+Marker&family=Roboto:wght@400;700&family=Unica+One&display=swap');
+
+/* The CSS Reset */
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+/* Utility Classes */
+.flexrow {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 1.5em;
+}
+
+.flexcolumn {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 1rem;
+    flex-direction: column;
+}
+
+/* Main Body */
+.container {
+    margin: 0 auto;
+    width: 800px;
+    position: relative;
+}
+
+h1 {
+    font-family: 'Unica One', cursive;
+    margin-top: 2rem;
+}
+
+button {
+    font-family: 'Unica One', cursive;
+    font-size: x-large;
+    color: white;
+    background-color: #C8252A;
+    border: 2px solid black;
+    box-shadow: 5px 5px black;
+    padding: 15px;
+}
+
+.content {
+    font-family: 'Dancing Script', cursive;;
+    color: black;
+    background-color: #CAAF8D;
+    border: 2px solid black;
+    box-shadow: 5px 5px black;
+    padding: 25px;
+    width: 100%;
+}
+
+h2 {
+    font-size: 2em;
+}
+
+/* Pizza Itself */
+.pizzaLocation {
+    top: 25px;
+    position: relative;
+    width: 400px;
+}
+
+#crust {
+    position: absolute;
+    top: 0;
+    z-index: 1;
+    width: 100%;
+
+}
+
+#sauce {
+    position: absolute;
+    top: 0;
+    z-index: 2;
+    width: 100%;
+}
+
+#cheese {
+    position: absolute;
+    top: 0;
+    z-index: 3;
+    width: 100%;
+}
+
+#meat {
+    position: absolute;
+    top: 0;
+    z-index: 4;
+    width: 100%;
+}
+
+#topping1 {
+    position: absolute;
+    top: 0;
+    z-index: 5;
+    width: 100%;
+}
+
+#topping2 {
+    position: absolute;
+    top: 0;
+    z-index: 6;
+    width: 100%;
+}
+
+#topping3 {
+    position: absolute;
+    top: 0;
+    z-index: 7;
+    width: 100%;
+}
+
+/* Menu */
+p {
+    font-family: 'Unica One', cursive;
+}
