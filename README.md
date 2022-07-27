@@ -3,5 +3,5 @@
 *Constructed using HTML, CSS and Javascript*
 
 - Original art by @sasszz using Procreate
-- With special assistance from @cmderobertis and @nisrinekane
+- With special assistance from @cmderobertis, @empyreus and @nisrinekane
 
