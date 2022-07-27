@@ -9,4 +9,5 @@
 
 - Original art by @sasszz using Procreate
 - With special assistance from @cmderobertis, @empyreus and @nisrinekane
+- Pages link to site: https://sasszz.github.io/randomPizzaGenerator/
 
