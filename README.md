@@ -1,9 +1,7 @@
 # Random Pizza Generator
 ## Welcome to Boocie's Pizza Parlor where pizzas are made fresh and often!
 
-<p align="center">
-    ![alt text](./randomPizzaGenerator.gif)
-</p>
+![alt text](./randomPizzaGenerator.gif)
 
 *Constructed using HTML, CSS and Javascript*
 
