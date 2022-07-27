@@ -1,4 +1,6 @@
 # Random Pizza Generator
+
+![alt text](./boociesPizzaParlor.png)
 ## Welcome to Boocie's pizza parlor where pizzas are made fresh and often!
 *Constructed using HTML, CSS and Javascript*
 
