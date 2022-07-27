@@ -5,8 +5,6 @@
   <img src="./randomPizzaGenerator.gif" />
 </p>
 
-![alt text](./randomPizzaGenerator.gif)
-
 *Constructed using HTML, CSS and Javascript*
 
 - Original art by @sasszz using Procreate
