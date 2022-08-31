@@ -1,5 +1,5 @@
 # Random Pizza Generator
-## Welcome to Boocie's Pizza Parlor where pizzas are made fresh and often!
+## Welcome to Lucie's Pizza Parlor where pizzas are made fresh and often!
 
 *Constructed using HTML, CSS and Javascript*
 
